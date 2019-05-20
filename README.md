@@ -1,2 +1,2 @@
-# beatrizvaldes.github.io
-Code 102
+# Holi!
+We are coding in Code 102
