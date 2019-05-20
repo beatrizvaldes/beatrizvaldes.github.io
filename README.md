@@ -11,6 +11,6 @@ If I ever feel that I can't do it, I have to remember this:
 So if I ever think...
 >I can't do it!
 
-Yes you can! :muscle:
+Yes you can! 💪🏻
 
 Do you want to know more about me? Visit [here](https://beatrizvaldes.github.io/)
