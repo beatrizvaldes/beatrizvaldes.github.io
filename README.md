@@ -4,3 +4,4 @@ Here you will see everything that I'm learning.
 
 1. [Growth Mindset](https://beatrizvaldes.github.io/growthmindset)
 2. [Day 1](https://beatrizvaldes.github.io/learningjournaldayone)
+3. [Git](https://beatrizvaldes.github.io/learningjournaldaytwo)
