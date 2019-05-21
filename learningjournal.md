@@ -1,7 +1,7 @@
-# hi!
+# Welcome to my learning journal!
 Do you want to know what I'm learning everyday in the Code 102 course?
 
-# Day 1
+## Day 1
 
 Today _(first day!)_ I have learned to:
 - Create a new page in GitHub, which is a repository of all your websites
