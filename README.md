@@ -6,3 +6,4 @@ Here you will see everything that I'm learning.
 2. [Day 1](https://beatrizvaldes.github.io/learningjournaldayone)
 3. [Git](https://beatrizvaldes.github.io/learningjournaldaytwo)
 4. [Structure Webpages With HTML](https://beatrizvaldes.github.io/Structurewebpageswithhtml)
+5. [Intro to CSS](https://beatrizvaldes.github.io/introtocss)
