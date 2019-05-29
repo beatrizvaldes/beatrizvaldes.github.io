@@ -7,3 +7,4 @@ Here you will see everything that I'm learning.
 3. [Git](https://beatrizvaldes.github.io/learningjournaldaytwo)
 4. [Structure Webpages With HTML](https://beatrizvaldes.github.io/Structurewebpageswithhtml)
 5. [Intro to CSS](https://beatrizvaldes.github.io/introtocss)
+6. [Activate Webpages with JavaScript](https://beatrizvaldes.github.io/activatewithjs)
