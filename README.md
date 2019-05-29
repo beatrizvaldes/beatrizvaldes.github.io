@@ -9,3 +9,4 @@ Here you will see everything that I'm learning.
 5. [Intro to CSS](https://beatrizvaldes.github.io/introtocss)
 6. [Activate Webpages with JavaScript](https://beatrizvaldes.github.io/activatewithjs)
 7. [Programming on JavaScript](https://beatrizvaldes.github.io/programmingonjs)
+8. [How Computers Work](https://beatrizvaldes.github.io/howcomputerswork)
